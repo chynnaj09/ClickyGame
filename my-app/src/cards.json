@@ -61,14 +61,14 @@
   },
   {
     "id": 11,
-    "name": "Lisa",
-    "image": "https://vignette.wikia.nocookie.net/simpsons/images/d/d5/Lisa_Simpson_official.png/revision/latest?cb=20190409004811",
+    "name": "Fry",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png/revision/latest?cb=20110916120042",
     "count": 0
   },
   {
     "id": 12,
-    "name": "Tom",
-    "image": "https://vignette.wikia.nocookie.net/americandad/images/0/0d/AmericanDad_09_Stan_v1F.jpg/revision/latest?cb=20101130170500",
+    "name": "Hermes",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/0/0d/Hermes.png/revision/latest?cb=20170719011119",
     "count": 0
   }
 ]
